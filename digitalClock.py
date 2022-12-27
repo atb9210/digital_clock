@@ -7,5 +7,7 @@ window.configure(bg="steelblue")
 
 label= label(window, , font=("Arial Black",78,"bold"), bg="steelblue")
 
+FunctionDisplayClock= label(window, , font=("Arial Black",78,"bold"), bg="steelblue")
+
 window.mainloop()
 
